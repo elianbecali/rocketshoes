@@ -62,7 +62,7 @@ Tabela de conteúdos
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Imagem de um App funcionando" title="App todo para o desafio 01 do Ignite" src="https://raw.githubusercontent.com/elianbecali/rocketshoes/main/.github/preview.gif" />
+  <img alt="Imagem de um App funcionando" title="App todo para o desafio 01 do Ignite" src="https://raw.githubusercontent.com/elianbecali/rocketshoes/master/.github/preview.gif" />
 </p>
 
 ---
