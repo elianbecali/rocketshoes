@@ -128,7 +128,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[polished](https://polished.js.org/)**
 
 
-> Veja o arquivo  [package.json](https://github.com/elianbecali/rocketshoes/blob/main/package.json)
+> Veja o arquivo  [package.json](https://github.com/elianbecali/rocketshoes/blob/master/package.json)
 
 ---
 
