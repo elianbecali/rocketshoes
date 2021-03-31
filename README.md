@@ -137,7 +137,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://app.rocketseat.com.br/me/elian-carlos-becali-aguiar-1567032394">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54561377?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Elian Becali</b></sub></a> <a href="https://app.rocketseat.com.br/me/elian-carlos-becali-aguiar-1567032394" title="Rocketseat">🚀</a>
+ <sub><b>Elian Becali</b></sub></a> <a href="https://app.rocketseat.com.br/me/elianbecali" title="Rocketseat">🚀</a>
  <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Elian%20Becali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elianbecali/)](https://www.linkedin.com/in/elianbecali/) 
