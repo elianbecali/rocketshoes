@@ -134,7 +134,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
-<a href="https://app.rocketseat.com.br/me/elian-carlos-becali-aguiar-1567032394">
+<a href="https://app.rocketseat.com.br/me/elianbecali">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54561377?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Elian Becali</b></sub></a> <a href="https://app.rocketseat.com.br/me/elianbecali" title="Rocketseat">🚀</a>
