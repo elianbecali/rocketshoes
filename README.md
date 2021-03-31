@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Desafio 01 criando um hook de carrinho de compras.
+    Desafio 01 criando um hook de carrinho de compras. [Chapter II]
 </h3>
 
 <p align="center">
